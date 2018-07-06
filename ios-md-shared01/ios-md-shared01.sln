@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ios-md-shared01", "ios-md-shared01\ios-md-shared01\ios-md-shared01.shproj", "{9816F8DF-EF5C-4502-909F-27E572C93C2A}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E27465CD-03EC-49C7-A53A-FB1CE0AB92FA}
+	EndGlobalSection
+EndGlobal
